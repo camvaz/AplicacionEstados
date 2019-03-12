@@ -2,8 +2,8 @@
  <author/>
  <comment/>
  <exportmacro/>
- <class>Login</class>
- <widget class="QMainWindow" name="Login">
+ <class>MenuCaptura</class>
+ <widget class="QMainWindow" name="MenuCaptura">
   <property name="geometry">
    <rect>
     <x>0</x>
